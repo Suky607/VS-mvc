@@ -1,0 +1,6 @@
+D:\Suky\MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Suky\MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Suky\MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Suky\MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Suky\MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Suky\MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

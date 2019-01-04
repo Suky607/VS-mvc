@@ -1,0 +1,10 @@
+D:\Suky\MVC\StudentNewDatabaseSample\bin\Debug\StudentNewDatabaseSample.exe.config
+D:\Suky\MVC\StudentNewDatabaseSample\bin\Debug\StudentNewDatabaseSample.exe
+D:\Suky\MVC\StudentNewDatabaseSample\bin\Debug\StudentNewDatabaseSample.pdb
+D:\Suky\MVC\StudentNewDatabaseSample\bin\Debug\EntityFramework.dll
+D:\Suky\MVC\StudentNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Suky\MVC\StudentNewDatabaseSample\bin\Debug\EntityFramework.xml
+D:\Suky\MVC\StudentNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Suky\MVC\StudentNewDatabaseSample\obj\Debug\StudentNewDatabaseSample.csprojResolveAssemblyReference.cache
+D:\Suky\MVC\StudentNewDatabaseSample\obj\Debug\StudentNewDatabaseSample.exe
+D:\Suky\MVC\StudentNewDatabaseSample\obj\Debug\StudentNewDatabaseSample.pdb

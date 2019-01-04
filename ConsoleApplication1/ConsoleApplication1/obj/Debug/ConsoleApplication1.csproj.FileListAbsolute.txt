@@ -1,0 +1,10 @@
+D:\Suky\MVC\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Suky\MVC\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Suky\MVC\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Suky\MVC\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Suky\MVC\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Suky\MVC\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\Suky\MVC\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Suky\MVC\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\Suky\MVC\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Suky\MVC\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
