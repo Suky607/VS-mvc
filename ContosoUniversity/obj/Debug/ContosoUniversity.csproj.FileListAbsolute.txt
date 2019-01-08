@@ -65,4 +65,3 @@ D:\Suky\MVC\ContosoUniversity\bin\PagedList.dll
 D:\Suky\MVC\ContosoUniversity\bin\PagedList.Mvc.dll
 D:\Suky\MVC\ContosoUniversity\bin\PagedList.xml
 D:\Suky\MVC\ContosoUniversity\bin\PagedList.Mvc.xml
-D:\Suky\MVC\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
