@@ -67,3 +67,4 @@ D:\Suky\MVC\ContosoUniversity\bin\PagedList.xml
 D:\Suky\MVC\ContosoUniversity\bin\PagedList.Mvc.xml
 D:\Suky\MVC\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 D:\Suky\MVC\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+D:\Suky\MVC\ContosoUniversity\bin\JsonObject.dll
